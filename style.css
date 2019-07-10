@@ -3,11 +3,11 @@ body {
 }
 
 .square {
-	width: 30%;
 	background: purple;
-	padding-bottom: 30%;
 	float: left;
+	width: 30%;
 	margin: 1.66%;
+	padding-bottom: 30%;	
 }
 
 #container {
